@@ -13,5 +13,5 @@
 11. Знову команди git add . і git commit -m "add new folder"
 12. Переходжу на гілку master
 13. На github створила проєкт git-first
-14. Підключилася до віддаленого репозиторію за допомоги команди: git remote origin
+14. Підключилася до віддаленого репозиторію за допомоги команди: git remote add origin https://github.com/Olya-Khylyuk/git-first.git
 15. Загрузила на віддалений репозиторій за допомогою команди: git push -u origin master
