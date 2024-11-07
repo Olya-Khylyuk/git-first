@@ -5,4 +5,13 @@
 3. git config --global user.name "Olga Khylyuk"
 4. git config --global user.name "olya@gmail.com"
 5.  в гілці master створюємо всі необхіідні папки: bin, admin, config 
-6. 
+6. команда в терміналі: git add .
+7. git commit -m "first git"
+8 Створюю нову гілку: git branch forum
+9. Переходжу на нову гілку: git checkout forum
+10. В новій гілці створюю папку blog і два файли в ній index.js index.html
+11. Знову команди git add . і git commit -m "add new folder"
+12. Переходжу на гілку master
+13. На github створила проєкт git-first
+14. Підключилася до віддаленого репозиторію за допомоги команди: git remote origin
+15. Загрузила на віддалений репозиторій за допомогою команди: git push -u origin master
