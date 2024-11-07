@@ -1,0 +1,8 @@
+Команди для Git
+
+1. Установка Git
+2. В терміналі git init
+3. git config --global user.name "Olga Khylyuk"
+4. git config --global user.name "olya@gmail.com"
+5.  в гілці master створюємо всі необхіідні папки: bin, admin, config 
+6. 
